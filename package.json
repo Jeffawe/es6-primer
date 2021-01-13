@@ -1,0 +1,25 @@
+{
+  "name": "es6-primer",
+  "version": "1.0.0",
+  "description": "Javascript and Version Control Primer in NodeJs Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeffawe/es6-primer.git"
+  },
+  "keywords": [
+    "Git",
+    "Javascript",
+    "NodeJs"
+  ],
+  "author": "Ozoekwe-Awagu Jeffery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jeffawe/es6-primer/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/Jeffawe/es6-primer#readme"
+}
