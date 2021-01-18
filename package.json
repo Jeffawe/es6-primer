@@ -21,5 +21,8 @@
     "url": "https://github.com/Jeffawe/es6-primer/issues"
   },
   "type": "module",
-  "homepage": "https://github.com/Jeffawe/es6-primer#readme"
+  "homepage": "https://github.com/Jeffawe/es6-primer#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
